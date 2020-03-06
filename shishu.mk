@@ -109,6 +109,14 @@ PRODUCT_PACKAGES += \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusSystemUIOverlay
 
+# Navbar
+PRODUCT_PACKAGES += \
+    NavbarAsusOverlay \
+    NavbarOnePlusOverlay \
+    NavbarOneUiOverlay \
+    NavbarStockOverlay \
+    NavbarTecnoCamonOverlay
+
 # Theme-Required overlays packages
 # PRODUCT_PACKAGES += \
 #     AOSPThemeAndroidOverlay \
