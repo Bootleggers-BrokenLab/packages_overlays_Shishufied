@@ -19,14 +19,14 @@
     <style name="Theme.DeviceDefault.QuickSettings" parent="android:Theme.DeviceDefault">
 
 	<!-- Color palette -->
-        <item name="*android:colorPrimaryDark">@*android:color/background_material_dark</item>
-        <item name="*android:colorSecondary">@*android:color/primary_dark_material_dark</item>
+        <item name="*android:colorPrimaryDark">@*android:color/rnr_tinted_background_color_dark</item>
+        <item name="*android:colorSecondary">@*android:color/rnr_tinted_primary_color_dark</item>
         <item name="*android:alertDialogTheme">@*android:style/Theme.DeviceDefault.Dialog.Alert</item>
 
         <!-- QS panel background -->
-        <item name="*android:colorBackgroundFloating">@*android:color/background_material_dark</item>
+        <item name="*android:colorBackgroundFloating">@*android:color/rnr_tinted_background_color_dark</item>
 
         <!-- volume background -->
-        <item name="*android:panelColorBackground">@*android:color/background_material_dark</item>
+        <item name="*android:panelColorBackground">@*android:color/rnr_tinted_background_color_dark</item>
     </style>
 </resources>

@@ -19,14 +19,14 @@
     <style name="Theme.DeviceDefault.QuickSettings" parent="android:Theme.DeviceDefault.Light">
 
 	<!-- Color palette -->
-        <item name="*android:colorPrimaryDark">@*android:color/background_material_light</item>
-        <item name="*android:colorSecondary">@*android:color/primary_dark_material_light</item>
+        <item name="*android:colorPrimaryDark">@*android:color/rnr_myterial_background_color_light</item>
+        <item name="*android:colorSecondary">@*android:color/rnr_myterial_primary_color_light</item>
         <item name="*android:alertDialogTheme">@*android:style/Theme.DeviceDefault.Light.Dialog.Alert</item>
 
         <!-- QS panel background -->
-        <item name="*android:colorBackgroundFloating">@*android:color/background_material_light</item>
+        <item name="*android:colorBackgroundFloating">@*android:color/rnr_myterial_background_color_light</item>
 
         <!-- volume background -->
-        <item name="*android:panelColorBackground">@*android:color/background_material_light</item>
+        <item name="*android:panelColorBackground">@*android:color/rnr_myterial_background_color_light</item>
     </style>
 </resources>
