@@ -44,17 +44,17 @@ PRODUCT_PACKAGES += \
     SimIcons
 
 # Theme-Required overlays packages
-# PRODUCT_PACKAGES += \
-#     AOSPThemeAndroidOverlay \
+PRODUCT_PACKAGES += \
+    UnmonetThemeAndroidOverlay \
 #     AOSPThemeSettingsOverlay \
 #     AOSPThemeSystemUIOverlay \
-#     BlackThemeAndroidOverlay \
+    BlackThemeAndroidOverlay \
 #     BlackThemeSettingsOverlay \
 #     BlackThemeSystemUIOverlay \
 #     LayanDarkenedThemeAndroidOverlay \
 #     LayanDarkenedThemeSettingsOverlay \
 #     LayanDarkenedThemeSystemUIOverlay \
-#     NexodusThemeAndroidOverlay \
+    NexodusThemeAndroidOverlay \
 #     NexodusThemeSettingsOverlay \
 #     NexodusThemeSystemUIOverlay \
 #     OneMonoThemeAndroidOverlay \
@@ -63,29 +63,26 @@ PRODUCT_PACKAGES += \
 #     PacleggersThemeAndroidOverlay \
 #     PacleggersThemeSettingsOverlay \
 #     PacleggersThemeSystemUIOverlay \
-#     PisselThemeAndroidOverlay \
-#     PisselThemeSettingsOverlay \
-#     PisselThemeSystemUIOverlay \
-#     SolarizedThemeAndroidOverlay \
+    SolarizedThemeAndroidOverlay \
 #     SolarizedThemeSettingsOverlay \
 #     SolarizedThemeSystemUIOverlay \
-#     ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
 #     ShishuIllusionsThemeGMSOverlay \
 #     ShishuIllusionsThemeSettingsOverlay \
 #     ShishuIllusionsThemeSystemUIOverlay \
 #     ShishuIllusionsThemeWellbeingUIOverlay \
-#     ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeAndroidOverlay \
 #     ShishuImmensityThemeGMSOverlay \
 #     ShishuImmensityThemeSettingsOverlay \
 #     ShishuImmensityThemeSystemUIOverlay \
 #     ShishuImmensityThemeWellbeingOverlay \
-#     ShishuThemeAndroidOverlay \
+    ShishuThemeAndroidOverlay \
 #     ShishuThemeSettingsOverlay \
 #     ShishuThemeSystemUIOverlay \
-#     ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeAndroidOverlay \
 #     ShishuNightsThemeSettingsOverlay \
 #     ShishuNightsThemeSystemUIOverlay \
-#     ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
 #     ShishuAmalgamationThemeSettingsOverlay \
 #     ShishuAmalgamationThemeSystemUIOverlay
 
