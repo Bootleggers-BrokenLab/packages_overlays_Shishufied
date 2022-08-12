@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bbd1c0e8_55a535ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-08-12T16:18:04Z",
+      "side": 1,
+      "message": "This is so early. The text styles can be brought back, also see if we can add uppercase on tiles titles just for fun.\n\nThis was tested with the black theme commit and replacing the package. Would be nice to have a better implementation. Also, need to add the gradient color based on monet (easy to implement but respecting the accent3 and the correct values to keep it consistent with accent on light/dark)",
+      "revId": "8150054f547f4bed27a9c9f0b4d0686ede9433a1",
+      "serverId": "5a64c7d2-d220-4cff-a215-87a09ee22948"
+    }
+  ]
+}
