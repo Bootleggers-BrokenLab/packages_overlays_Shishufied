@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c38ee822_f90364f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-08-19T03:46:09Z",
+      "side": 1,
+      "message": "Untested 100% but i\u0027m doing it the same way I did back in oreo, when we had a black theme and it was just changing the same color values and maybe applying some style inbetween. In the transparent themes are a experimental style, that would be broken 100% but sounds fun!",
+      "revId": "d75b95a24808cf0ff77fbbb25a3bef98951e1e24",
+      "serverId": "5a64c7d2-d220-4cff-a215-87a09ee22948"
+    }
+  ]
+}
