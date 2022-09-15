@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abc50244_9402fefa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 14
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-15T13:42:28Z",
+      "side": 1,
+      "message": "Tested and the base is mostly fine. At least they work and that\u0027s enough to be merged",
+      "revId": "8ed7931991b78c6bc4c72130f21f25be9fa21f0c",
+      "serverId": "5a64c7d2-d220-4cff-a215-87a09ee22948"
+    }
+  ]
+}
